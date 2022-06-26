@@ -13,17 +13,17 @@
 </p>
 
 <h2>Installation</h2>
-```sh
+```shell
 	git clone https://github.com/Vivers0/ImageCloud.git
 ```
 <h2>Start</h2>
 Frontend
-```sh
+```shell
 	cd frontend
 	yarn (npm) start
 ```
 Backend
-```sh
+```shell
 	cd frontend
 	yarn (npm) start
 ```
