@@ -17,13 +17,15 @@
 git clone https://github.com/Vivers0/ImageCloud.git
 ```
 <h2>Start</h2>
+
 Frontend
-```
+<code>
 cd frontend
 yarn (npm) start
-```
+</code>
+
 Backend
-```
+<code>
 cd backend
 yarn (npm) start
-```
+</code>
