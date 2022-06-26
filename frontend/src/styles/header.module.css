@@ -1,0 +1,17 @@
+.headerIcon {
+    font-size: 100px !important;
+    color: #fff;
+}
+
+.headerText {
+    font-family: 'Roboto', sans-serif;
+    font-size: 80px;
+    color: #fff;
+    margin-top: .1em;
+}
+
+@media screen and (max-width: 1200px) {
+    .headerText {
+        font-size: 60px;
+    }
+}

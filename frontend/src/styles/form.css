@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color: #121212;
+}
+.dropzone-div {
+  text-align: center;
+  padding: 8em;
+  border: 3px #808080 dashed;
+  background-color: rgba(255, 255, 255, 0.16);
+  border-radius: 10px;
+  width: 60%;
+  margin: auto;
+  margin-top: 3em;
+}
+
+.isDragFocuced {
+  border-color: #0275d8
+}
+
+.file-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 65%;
+  margin: 20px auto;
+  padding: 10px;
+  border: 3px dotted black;
+}
+.file-list img {
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}
